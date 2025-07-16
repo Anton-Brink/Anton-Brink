@@ -1,7 +1,7 @@
   Hi I am Anton Brink,
-  A software engineer from Cape Town, South Africa. I enjoy trying new tech stacks and problem solving. I am currently working on creating my own vscode extension. 
+  A software engineer from Cape Town, South Africa.
   
-  I am looking to move into the cybersecurity software development space if someone wants to connect and perhaps discuss a job:
+  I am looking to move into the cybersecurity, iot or finance software development space if someone wants to connect and perhaps discuss a job:
 
   https://www.linkedin.com/in/anton-brink/
 
